@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TeamName</string>
+    <string name="banner">Nombre de Equipo</string>
+    <string name="p1">Tatiana Morales</string>
+    <string name="p2">Mikhail Ivanov</string>
+    <string name="p3">Mabel Devesa</string>
+    <string name="p4">Isaac Pocostales</string>
+    <string name="p5">Daniel Mejias</string>
+    <string name="p6">Xavier Díaz</string>
+    <string name="nombre">Nombre</string>
+    <string name="ap1">Apellido 1</string>
+    <string name="ap2">Apellido 2</string>
+    <string name="Edad">Edad</string>
+    <string name="Sexo">Sexo</string>
+    <string name="Altura">Altura</string>
+    <string name="Colorpelo">Color de pelo</string>
+    <string name="Colorojos">Color de ojos</string>
+    <string name="Colorfav">Color favorito </string>
+
+
+
+
+</resources>
