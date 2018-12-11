@@ -10,4 +10,76 @@
 
     </style>
 
+    <style name="Banner">
+        <item name="android:layout_width"> 365dp</item>
+        <item name="android:layout_height"> 57dp</item>
+        <item name="android:layout_marginEnd"> 8dp </item>
+        <item name="android:background"> @color/BannerColour2 </item>
+        <item name="android:fontFamily"> @font/changa_one</item>
+        <item name="android:gravity"> center </item>
+        <item name="android:text"> @string/banner </item>
+        <item name="android:textColor">?android:attr/colorBackground</item>
+        <item name="android:textSize"> 40sp</item>
+    </style>
+
+    <style name="Texto1">
+        <item name="android:layout_width">224dp</item>
+        <item name="android:layout_height">55dp</item>
+        <item name="android:layout_marginEnd">28dp</item>
+        <item name="android:gravity" >left|center</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+
+    <style name="TextoApellidos">
+        <item name="android:layout_width">165dp</item>
+        <item name="android:layout_height">31dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:layout_marginStart">8dp</item>
+        <item name="android:gravity" >left|center</item>
+        <item name="android:textColor">#FFC5C7C9</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="TextoNombre">
+        <item name="android:layout_width">165dp</item>
+        <item name="android:layout_height">38dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:layout_marginStart">8dp</item>
+        <item name="android:layout_marginTop">24dp</item>
+        <item name="android:gravity" >left|center</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Texto2">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+
+    <style name="TextoContenedor">
+
+        <item name="android:gravity" >left|center</item>
+        <item name="android:layout_width">106dp</item>
+        <item name="android:layout_height">33dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:layout_marginStart">8dp</item>
+        <item name="android:textColor">#FFC5C7C9</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name = "boton">
+        <item name="android:layout_width"> 75dp</item>
+        <item name="android:layout_height"> 75dp</item>
+        <item name="android:layout_marginEnd"> 8dp</item>
+        <item name="android:layout_marginStart"> 8dp</item>
+        <item name="android:background"> @android:color/transparent</item>
+    </style>
+
+
 </resources>
